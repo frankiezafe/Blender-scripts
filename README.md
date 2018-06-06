@@ -1,2 +1,3 @@
 # Blender-scripts
-Main repo is here:
+
+All script are now located in https://gitlab.com/frankiezafe/Blender-scripts
